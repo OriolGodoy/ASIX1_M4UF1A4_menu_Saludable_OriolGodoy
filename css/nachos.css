@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap');
+body {
+    font-family: 'Heebo', sans-serif;
+    margin: 2%;
+    background-size: cover;
+}
+
+header h1 {
+    padding-left: 40%;
+    height: 100vh;
+}
+
+.boto a {
+    text-decoration: none;
+}

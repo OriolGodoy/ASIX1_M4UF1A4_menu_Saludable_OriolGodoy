@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&display=swap');
+body {
+    font-family: 'Heebo', sans-serif;
+    margin: 0%;
+    background-image: url(../img/f0Jejt3v_4x.jpg);
+    background-size: cover;
+}
+
+#header {
+    height: 30vh;
+}
+
+#header h1 {
+    color: rgb(0, 0, 0);
+    padding-left: 32%;
+    padding-top: 3%;
+    margin: 0%;
+    font-size: 60px;
+}
+
+#menu {
+    padding-left: 20%;
+}
+
+#menu h2 {
+    margin-bottom: 2%;
+    margin-right: 0%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
